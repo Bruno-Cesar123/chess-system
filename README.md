@@ -1,18 +1,29 @@
-## Getting Started
+<h1 align="center">Jogo Xadrez</h1>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+<p align="center">
+  <a href="#-descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
+</p>
 
-## Folder Structure
+## Descrição
 
-The workspace contains two folders by default, where:
+- Projeto jogo de xadrez.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## ✨ Tecnologias
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- [JAVA](https://www.java.com/pt-BR/)
 
-## Dependency Management
+## 🎲 Como executar Frontend
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+```bash
+# Executar o arquivo App.java
+```
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](license) para mais detalhes.
+
+---
+
+Feito por **Bruno Cesar** [**LinkedIn**](https://www.linkedin.com/in/bruno-cesar-b0039715a/)
